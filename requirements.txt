@@ -1,0 +1,3 @@
+PyQt5
+cryptography
+ # Optional if sqlite3 is not available in your Python version
